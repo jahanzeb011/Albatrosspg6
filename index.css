@@ -201,9 +201,9 @@ body {
 
 .logo2 {
     position: absolute;
-    top: 215px;
-    left: 1150px;
-    height: 65%;
+    top: -65px;
+    left: 260px;
+    height: 150%;
 }
 
 .button {
@@ -259,9 +259,10 @@ body {
     }
 
     .logo2 {
-        top: 175px;
-        left: 725px;
-        height: 34.2%;
+        position: absolute;
+        top: -65px;
+        left: 110px;
+        height: 150%;
     }
 }
 
@@ -302,10 +303,11 @@ body {
         margin-left: 10px;
     }
 
-    .logo2 {
-        top: 175px;
-        left: 725px;
-        height: 40%;
+   .logo2 {
+        position: absolute;
+        top: -65px;
+        left: 110px;
+        height: 150%;
     }
 }
 
