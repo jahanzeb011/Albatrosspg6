@@ -166,6 +166,7 @@ body {
     border-radius: 10px;
     background-color: #363269;
     margin-left: 325px;
+     position: relative;
 }
 
 .manager {
